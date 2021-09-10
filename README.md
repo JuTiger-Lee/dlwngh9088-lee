@@ -2,7 +2,7 @@
 
 <h3>Introduce</h3>
 <p>안녕하세요. 백엔드 서버 개발자 이주호입니다.</p>
-<p>MY <a href="https://development-crow.tistory.com/" target='_blank'>Blog</a></p>
+<p>MY <a href="https://development-crow.tistory.com/" target="_blank">Blog</a></p>
 
 <h3>Tech Stack</h3>
 
