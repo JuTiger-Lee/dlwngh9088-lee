@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" />
  </p>
  
- <h3>Etc</h3>
+ <h3>ETC</h3>
  
  <a href="mailto:ref6318@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ref6318@gmail.com"/></a>
  
