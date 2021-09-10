@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jutiger-Lee&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Jutiger-Lee&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=000000)
 
 <h3>Introduce</h3>
 <p>안녕하세요. 백엔드 서버 개발자 이주호입니다.</p>
